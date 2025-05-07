@@ -70,11 +70,11 @@
       {
         "@type": "Link",
         "label": "夢応援プロジェクト",
-        "uri": "muen-project.com"
+        "uri": "https://muen-project.com"
       },
       {
         "@type": "Identity",
-        "label": "Ｘ（Twitter）",
+        "label": "Ｘ（Twitter,投稿）",
         "uri": "https://x.com/slowhand4040/status/1847775114768896270"
       }
     ]
