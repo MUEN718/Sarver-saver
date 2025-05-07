@@ -54,6 +54,11 @@
   "hashAlgorithm": "blake2b-256",
   "body": {
     "givenName": "MUEN",
+     "image": {
+     "@type": "ImageObject",
+  　  "contentUrl": "https://user-images.githubusercontent.com/83693022/153592808-ad3800ba-2b5c-4bb3-928f-ed2763001470.jpeg",
+      "sha256": "07368048b43b1378eec687f1c145300a9a87f75909f73c7d05abffee06f62ea5"
+    },
     "motivations": "1970年に人生で初めてコンピューターと言うものに出会て以来、1983年から薬剤師として医療関連情報伝達システムや学会などへの発表を通して情報通信関連には触れてきていました。N88BASIC、MS-DOS、db3、Linux、Windowsなど様々なOSやソフトウェアを通して得た経験から医療関係、薬局経営、起業アシスト、起業顧問など様々な業務に従事してきました。2020年にCardanoと出会い、2021年にSPOとなって以来CardanoエコシステムにおけるSPOの重要性とサーバー維持への意義を見出し、このシステムにガバナンスが機能するという事を知りシステム維持がいかに重要かを認識しこの活動を通して貢献したいと思った事です。\n\n",
     "objectives": "Drep活動を通して、Cardanoエコシステムを支える根幹となるSPOのプール運営の持続可能性に貢献するために、地域における勉強会、研修会、若いSPOの育成、地元経営者とのジョイントなどを企画していきます。さらにはADAホルダー、Intersectのメンバー、SPOなどとの情報交換、ガバナンスの参加、ミートアップ活動、QOL向上などを通して広くCardanoエコシステムを持続可能な永続性をもったシステムにすることを目標にしています。",
     "paymentAddress": "addr1q887jffc857uxxjk76zhn37rytdrqdglj6kusefh06uzqy94lp3wlwk5pldue7tjkaahdnce3dwr4c4gfckan09akcjsctduye",
